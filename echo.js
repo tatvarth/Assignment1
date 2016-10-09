@@ -1,12 +1,7 @@
 #!/usr/bin/env node
 
 require('./helper')
-let fs = require('fs').promise
-
-function* echo() {
-    // Use 'yield' in here
-    // Your implementation here
-    console.log(yield fs.readFile(__filename, console.log))
+function echo(arg) {
+    console.log(arg);
 }
-
-module.exports = echo
+echo(process.argv[2]);
