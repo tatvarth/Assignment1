@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+//To run this file :  babel-node ls --dir=node_modules
 require('./helper')
 let fs = require('fs').promise;
 let path = require('path');
