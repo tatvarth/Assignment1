@@ -2,15 +2,15 @@
 
 This is a CLI Utilities library for Node.js.
 
-Time spent: `<Number of hours spent>`
+Time spent: 8h
 
 ## Features
 
 ### Required
 
 - [x] Completed Requireds marked with `[x]`
-- [ ] Walkthrough Gif embedded in README
-- [ ] README `Time spent:` includes the number of hours spent on the assignment
+- [x] Walkthrough Gif embedded in README
+- [x] README `Time spent:` includes the number of hours spent on the assignment
 - [x] `echo.js` prints the first argument to stdout
 - [x] `cat.js` prints the contents of the first argument to stdout
 - [x] `touch.js` updates the modified date of the first argument
@@ -26,5 +26,4 @@ Time spent: `<Number of hours spent>`
 
 ## Walkthrough Gif:
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
 ![Video Walkthrough](https://github.com/tatvarth/Assignment1/blob/master/HW1.gif)
