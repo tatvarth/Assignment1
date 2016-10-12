@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+//To run this file :  babel-node rm a/b/c
 var fs = require('fs')
   , path = require('path')
   , _ = require('underscore');
