@@ -27,4 +27,4 @@ Time spent: `<Number of hours spent>`
 ## Walkthrough Gif:
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+![Video Walkthrough](https://github.com/tatvarth/Assignment1/blob/master/HW1.gif)
